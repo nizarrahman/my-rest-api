@@ -1,6 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Nizar Rahman'// yourname
+global.apikey = 'naistore'
 global.MONGO_DB_URI = "mongodb+srv://naistore:<password>@cluster0.k9w0k4c.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "rnizar025" //email
